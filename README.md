@@ -1,16 +1,71 @@
-## Hi there 👋
+Hi 👋, I'm Palak Vishwakarma
 
-<!--
-**Palak24-web/Palak24-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & ML Engineering Student | Python Developer
 
-Here are some ideas to get you started:
+I am a passionate developer who enjoys building smart and innovative tech solutions using programming and problem-solving skills.  
+Currently focused on improving my Data Structures & Algorithms, Web Development, and Machine Learning knowledge while creating real-world projects and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌟 About Me
+
+- 🎓 AI & ML Engineering Student
+- 💻 Passionate about Software & Python Development
+- 🚀 Love building real-world tech projects
+- 🌱 Currently learning DSA, Full Stack Development & Machine Learning
+- 🔥 Exploring Open Source and Modern Technologies
+
+
+
+🛠️ Tech Stack
+
+Languages
+- Python
+- Java
+- C
+- C++
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+Skills & Technologies
+- Web Development
+- Data Structures & Algorithms
+- Machine Learning
+- Git & GitHub
+- Streamlit
+- VS Code
+
+---
+
+📌 Featured Projects
+
+💰 Finance Assistance
+AI-powered financial assistant built using Python for smart financial insights and recommendations.
+
+📚 EduRL
+AI-based educational learning platform project.
+
+🤖 Smart AI Projects
+Projects focused on automation, intelligent systems, and practical AI applications.
+
+
+📈 GitHub Stats
+
+![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak24-web&show_icons=true)
+
+
+🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Palak24-web)
+
+
+
+📫 Connect With Me
+
+- 📧 ctrlaltpalak25@gmail.com
+
+
+
+⭐ “Code. Learn. Build. Repeat.”
