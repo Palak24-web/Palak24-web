@@ -65,6 +65,8 @@ Projects focused on automation, intelligent systems, and practical AI applicatio
 ![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak24-web&show_icons=true)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak24-web&layout=compact)
+
 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Palak24-web)
@@ -78,3 +80,6 @@ Projects focused on automation, intelligent systems, and practical AI applicatio
 
 
 ⭐ “Code. Learn. Build. Repeat.”
+
+
+![](https://komarev.com/ghpvc/?username=Palak24-web&color=blue)
